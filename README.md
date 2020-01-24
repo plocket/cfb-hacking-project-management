@@ -8,6 +8,8 @@ We're having this discussion for two levels of action:
 1. Ideas/requests to bring to the core CfB team for them to implement to help project managers
 2. Ideas that individual team leads would have to implement.
 
+We will work on capturing those, and maybe other discussions, in [this repo's issues](https://github.com/plocket/cfb-hacking-project-management/issues) (maybe) for documentation and perhaps more input.
+
 # Changelog
 
 01/23/20
@@ -15,4 +17,5 @@ First explorations captured at https://docs.google.com/document/d/1wiv7UQu4PPMgD
 
 # Contributing
 
-[Join the CfB slack](https://communityinviter.com/apps/cfb-public/code-for-boston-slack-invite) and then the #lean-coffee-project-management channel. This may change in the future.
+1. [Add and comment on issues](https://github.com/plocket/cfb-hacking-project-management/issues) which will be our discussion items, ideas, and suggestions.
+1. [Join the CfB slack](https://communityinviter.com/apps/cfb-public/code-for-boston-slack-invite) and then the #lean-coffee-project-management channel. This may change in the future.
